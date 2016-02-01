@@ -1,2 +1,2 @@
-# LMBatch
-Batch and Procedures to Track and Analyze ESRI License Manager Usage
+# Table Tracking
+Procedures to Track ESRI SDE Table Usage and Analyze the outputs
